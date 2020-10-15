@@ -1,0 +1,5 @@
+a="naveen"
+print(a)
+def abc():
+    print("welcome to india")
+    print("Thanks for Visiting")
